@@ -5,6 +5,11 @@
     font-weight: normal;
     src: local('teko-v10-latin-regular'), url('../franciswork/font/Teko/teko-v10-latin-regular.woff') format('woff');
     }
+
+    @font-face {
+      font-family: 'Strados';
+      src: url('../franciswork/font/Strados/StardosStencil-Regular.ttf');
+      }
   
   .accordion {
     
@@ -58,6 +63,7 @@
     color: aliceblue;
     padding-left: 310px;
     
+    
   }
 
 
@@ -66,8 +72,9 @@
 .descriptif{
 
   padding-left: 30px;
-  font-size: 16px;
+  font-size: 18px;
   letter-spacing: 1px;
+  font-family: 'Teko';
   
   
 
@@ -76,12 +83,13 @@
 .prix{
 
   color:rgba(255, 57, 31, 1) ;
+  
 }
 
 
 .MENU{
 
-  font-family: 'Teko' !important;
+  font-family: 'Teko';
   font-size: 24px;
   
 }
@@ -89,8 +97,35 @@
 .menuderoulant{
 
   position: fixed;
-  top: 0;
+  top: 1vh;
   width: 300px;
-  border: solid 150px #424242b9;
-  height: 100vh;
+  background: #424242b9;
+  height: 98vh;
+  box-shadow: 5px 5px 5px rgba(255, 57, 31, 0.767);
+  
 }
+
+.liensmenuderoulant{
+  font-size: 36px;
+  margin-top: 12px;
+  padding-top: 4px;
+  padding-left: 30px;
+  
+  
+
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  font-family: 'Strados';
+  
+}
+
+
+a:hover{
+
+  color: rgba(255, 57, 31, 0.767);
+
+}
+

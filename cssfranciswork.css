@@ -56,6 +56,7 @@
     overflow: hidden;   
     transition: max-height 0.2s ease-out;
     color: aliceblue;
+    font-family: 'Teko';
     
   }
 
@@ -65,10 +66,10 @@
 .descriptif{
 
   padding-left: 30px;
-  font-size: 16px;
+  font-size: 14px;
   letter-spacing: 1px;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 1px;
+  font-family: 'Teko';
   
 
 }
@@ -79,11 +80,14 @@
 }
 
 
-.MENU{
+.styletypo{
 
   font-family: 'Teko' !important;
   font-size: 24px;
   
 }
 
+.menuderoulant{
 
+  display: none;
+}
