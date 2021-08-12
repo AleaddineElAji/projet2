@@ -40,6 +40,7 @@
     z-index: -1;
     
     
+    
   }
 
 .ombreimage{
@@ -62,6 +63,7 @@
     transition: max-height 0.2s ease-out;
     color: aliceblue;
     padding-left: 310px;
+    
     
     
   }
@@ -101,13 +103,14 @@
   width: 300px;
   background: #424242b9;
   height: 98vh;
-  box-shadow: 5px 5px 5px rgba(255, 57, 31, 0.767);
+  box-shadow: 5px 5px 0px rgba(255, 57, 31, 0.918);
+  
   
 }
 
 .liensmenuderoulant{
   font-size: 30px;
-  margin-top: 8px;
+  margin-top: 20px;
   padding-top: 4px;
   padding-left: 30px;
   
@@ -128,4 +131,41 @@ a:hover{
   color: rgba(255, 57, 31, 0.767);
 
 }
+
+.cadre{
+
+  border: 5px solid black;
+  width: fit-content;
+  padding-left: 50px;
+  padding-right: 50px;
+  z-index: 2;
+
+}
+.titre{
+
+  font-size: 5vw; 
+  font-family: 'Teko';
+  letter-spacing: 20px;
+  color: white;
+  text-shadow: #000 1px 0 10px;
+    
+}
+
+
+.container-fluid{
+
+  padding: 0px;
+}
+
+.placement1{
+
+  position: absolute;
+  left: 50vw;
+  top:6vw;
+
+}
+
+
+
+
 
