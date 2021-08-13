@@ -61,7 +61,7 @@
     max-height: 0;
     overflow: hidden;   
     transition: max-height 0.2s ease-out;
-    color: aliceblue;
+    
     padding-left: 310px;
     
     
@@ -77,7 +77,7 @@
   font-size: 18px;
   letter-spacing: 1px;
   font-family: 'Teko';
-  
+  color: rgb(223, 223, 223);
   
 
 }
@@ -93,6 +93,7 @@
 
   font-family: 'Teko';
   font-size: 24px;
+  color: rgb(255, 255, 255);
   
 }
 
@@ -113,13 +114,12 @@
   margin-top: 20px;
   padding-top: 4px;
   padding-left: 30px;
-  
-  
+
 
 }
 
 a {
-  color: white;
+  color: rgb(255, 255, 255);
   text-decoration: none;
   font-family: 'Strados';
   
@@ -141,15 +141,7 @@ a:hover{
   z-index: 2;
 
 }
-.titre{
 
-  font-size: 5vw; 
-  font-family: 'Teko';
-  letter-spacing: 20px;
-  color: white;
-  text-shadow: #000 1px 0 10px;
-    
-}
 
 
 .container-fluid{
@@ -157,13 +149,6 @@ a:hover{
   padding: 0px;
 }
 
-.placement1{
-
-  position: absolute;
-  left: 50vw;
-  top:6vw;
-
-}
 
 
 

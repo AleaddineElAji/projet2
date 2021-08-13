@@ -1,0 +1,37 @@
+Projet 02 - Réalisation d'une maquette avec FIGMA
+
+Partie 01 - Wireframe et Maquette
+
+Dans ce projet il vous est demandé de réaliser la refonte graphique du restaurant la Tour de Pize : https://www.latourdepize.com
+Le site étant vieillissant il vous est demandé de proposer un site alliant à la fois modernité et facilité d'utilisation.
+Avec le covid le site à mise en place une boutique en ligne éphémère, toutefois les propriétaires souhaitent maintenant que celle-ci s'intègre au site internet.
+
+Le site devra être un site dit one page.
+Vous êtes libre de changer les couleurs ainsi que les typographies
+Vous pouvez utiliser des images pour illustrer le site mais celles-ci devront être libres de droit
+
+Une seule structure devra toutefois être respecté :
+
+	- Une image de présentation
+	- Une partie présentation
+	- Une partie carte / Menu
+	- Une partie footer
+
+Pour la partie carte, à vous de trouver une manière élégante et fonctionnelle de présenter tous les produits disponibles à la vente.
+
+Avant de réaliser la maquette vous devrez réaliser un wireframe du site.
+Votre maquette quant à elle devra comporter un formulaire de contact et une carte de localisation
+Wireframe et maquette devront être pensées en Mobile First avant tout. 
+
+Partie 02 - Intégration
+
+Maintenant votre maquette réalisée vous devez la transmettre à un de vos camarade. Par conséquent il vous est demandé de réaliser un cahier des spécificités afin de lui expliquer tous les développements et interactions particuliers que vous souhaitez qu'il mette en place.
+D'un autre coté vous devrez intégrer la maquette qui vous aura été fourni
+
+L'intégration devra être faite à l'aide de bootstrap.
+Vous devrez gérer les métadonnées du site
+Livrables : Projet sur Github 
+
+Date : 27/07/2021 au 04/08/2021 (WIREFRAME + MAQUETTE) - 05/08/2021 au 12/08/2021 (CAHIER SPEC + INTEGRATION)
+
+

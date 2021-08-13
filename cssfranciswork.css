@@ -66,11 +66,12 @@
 .descriptif{
 
   padding-left: 30px;
-  font-size: 14px;
   letter-spacing: 1px;
-  padding-top: 1px;
+  padding-bottom: 10px;
+  margin-top: -10px;
   font-family: 'Teko';
-  
+  font-size: 14px;
+  color: rgb(223, 223, 223);
 
 }
 
